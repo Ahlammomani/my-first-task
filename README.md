@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=PxRI8EX4z7c
 ### Image of website
 
 ![Screenshot (5)](https://github.com/user-attachments/assets/c33ca0b4-9cfb-4b94-ad1f-337a8a9ce97b)
+
+#### Figma view 
+https://www.figma.com/design/DscrK9k2H9LitWeSnsL6Dn/school-wireframe?node-id=0-1&t=8mu7a4KjnjN1cAgn-1
