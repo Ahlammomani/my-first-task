@@ -4,7 +4,7 @@ welcome to the offcial repo for the universty website :star: .
 This website designed to explore academic programs,campus news, and student resources to stay in touch with our university community.
 
 ## Welcoming Message President of the Hashemite University Prof. Fawwaz Al-Abed Al-Haq
-https://www.youtube.com/watch?v=PxRI8EX4z7c
+[link](https://www.youtube.com/watch?v=PxRI8EX4z7cs)
 
 ### Image of website
 
